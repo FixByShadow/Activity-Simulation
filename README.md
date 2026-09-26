@@ -8,7 +8,7 @@ You are part of the SOC team. Analyze the logs and determine what happened.
 
 Guide Questions:
 
-Is there a brute force attack?
-Which IP address is suspicious?
-Was there unauthorized access?
-Is this related to phishing?
+1. Is there a brute force attack?
+2. Which IP address is suspicious?
+3. Was there unauthorized access?
+4. Is this related to phishing?
